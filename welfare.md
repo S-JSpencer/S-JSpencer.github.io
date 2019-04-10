@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PGR Well-being
-permalink: /PGR Well-Being/
+permalink: /PGR-Well-Being/
 ---
 
 ## Why is PGR well-being important?
