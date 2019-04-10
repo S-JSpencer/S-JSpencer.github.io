@@ -6,4 +6,6 @@ permalink: /research/
 
 ## Inflationary Stimulated Raman Scattering
 
+foo bar
+
 ## Astrophysical Pair-Plasma Jets
