@@ -4,7 +4,8 @@ title: Teaching and Outreach
 permalink: /teaching/
 ---
 
-## PX149 Maths for Physicists
-
+## Mathematics for Physicists
+I am a class teacher for the first-year undergraduate module [PX149 Mathematics for Physicists](https://warwick.ac.uk/services/aro/dar/quality/modules/undergraduate/px/px149/). 
 
 ## Planetarium
+I am also part of the [Planetarium](https://warwick.ac.uk/fac/sci/physics/outreach/planetarium/) team, volunteering to deliver interactive planetarium sessions to local schools.
