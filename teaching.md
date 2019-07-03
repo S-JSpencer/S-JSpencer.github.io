@@ -16,6 +16,6 @@ I am also part of the [Planetarium](https://warwick.ac.uk/fac/sci/physics/outrea
     <img src="https://imgur.com/tTA1Yqp" alt="Solid target" style="width:100%">
   </div>
   <div class="column">
-    <img src="compressed.png" alt="Forest" style="width:100%">
+    <img src="https://imgur.com/XTFF3Gr" alt="Compressed target" style="width:100%">
   </div>
 </div>
