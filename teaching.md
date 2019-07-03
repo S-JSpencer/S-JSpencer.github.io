@@ -13,7 +13,7 @@ I am also part of the [Planetarium](https://warwick.ac.uk/fac/sci/physics/outrea
 ## Plain-language Research Summary
 <div class="row">
   <div class="column">
-    <img src=target.png" alt="Snow" style="width:100%">
+    <img src="https://imgur.com/tTA1Yqp" alt="Solid target" style="width:100%">
   </div>
   <div class="column">
     <img src="compressed.png" alt="Forest" style="width:100%">
